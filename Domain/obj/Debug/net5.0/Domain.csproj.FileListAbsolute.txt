@@ -1,0 +1,48 @@
+C:\Users\folariu\source\repos\Onion.Sample.TSP\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\folariu\source\repos\Onion.Sample.TSP\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\folariu\source\repos\Onion.Sample.TSP\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\folariu\source\repos\Onion.Sample.TSP\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\folariu\source\repos\Onion.Sample.TSP\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+C:\Users\folariu\source\repos\Onion.Sample.TSP\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\folariu\source\repos\Onion.Sample.TSP\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\folariu\source\repos\Onion.Sample.TSP\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\folariu\source\repos\Onion.Sample.TSP\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\folariu\source\repos\Onion.Sample.TSP\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\folariu\source\repos\Onion.Sample.TSP\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\folariu\source\repos\Onion.Sample.TSP\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\folariu\OneDrive - Centric\Desktop\Facultate\Topici speciale de programare in .NET\Course 6\Onion.Sample.TSP\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\folariu\OneDrive - Centric\Desktop\Facultate\Topici speciale de programare in .NET\Course 6\Onion.Sample.TSP\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\folariu\OneDrive - Centric\Desktop\Facultate\Topici speciale de programare in .NET\Course 6\Onion.Sample.TSP\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\folariu\OneDrive - Centric\Desktop\Facultate\Topici speciale de programare in .NET\Course 6\Onion.Sample.TSP\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\folariu\OneDrive - Centric\Desktop\Facultate\Topici speciale de programare in .NET\Course 6\Onion.Sample.TSP\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+C:\Users\folariu\OneDrive - Centric\Desktop\Facultate\Topici speciale de programare in .NET\Course 6\Onion.Sample.TSP\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\folariu\OneDrive - Centric\Desktop\Facultate\Topici speciale de programare in .NET\Course 6\Onion.Sample.TSP\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\folariu\OneDrive - Centric\Desktop\Facultate\Topici speciale de programare in .NET\Course 6\Onion.Sample.TSP\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\folariu\OneDrive - Centric\Desktop\Facultate\Topici speciale de programare in .NET\Course 6\Onion.Sample.TSP\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\folariu\OneDrive - Centric\Desktop\Facultate\Topici speciale de programare in .NET\Course 6\Onion.Sample.TSP\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\folariu\OneDrive - Centric\Desktop\Facultate\Topici speciale de programare in .NET\Course 6\Onion.Sample.TSP\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\folariu\OneDrive - Centric\Desktop\Facultate\Topici speciale de programare in .NET\Course 6\Onion.Sample.TSP\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\stefa\Downloads\Onion.Sample.TSP\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\stefa\Downloads\Onion.Sample.TSP\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\stefa\Downloads\Onion.Sample.TSP\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\stefa\Downloads\Onion.Sample.TSP\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\stefa\Downloads\Onion.Sample.TSP\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+C:\Users\stefa\Downloads\Onion.Sample.TSP\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\Downloads\Onion.Sample.TSP\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\stefa\Downloads\Onion.Sample.TSP\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\stefa\Downloads\Onion.Sample.TSP\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Downloads\Onion.Sample.TSP\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\stefa\Downloads\Onion.Sample.TSP\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\stefa\Downloads\Onion.Sample.TSP\Domain\obj\Debug\net5.0\Domain.pdb
+D:\.net\ProductMicroservice\Onion.Sample.TSP\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\.net\ProductMicroservice\Onion.Sample.TSP\Domain\bin\Debug\net5.0\Domain.dll
+D:\.net\ProductMicroservice\Onion.Sample.TSP\Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\.net\ProductMicroservice\Onion.Sample.TSP\Domain\bin\Debug\net5.0\Domain.pdb
+D:\.net\ProductMicroservice\Onion.Sample.TSP\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+D:\.net\ProductMicroservice\Onion.Sample.TSP\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\ProductMicroservice\Onion.Sample.TSP\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\.net\ProductMicroservice\Onion.Sample.TSP\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\.net\ProductMicroservice\Onion.Sample.TSP\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\.net\ProductMicroservice\Onion.Sample.TSP\Domain\obj\Debug\net5.0\Domain.dll
+D:\.net\ProductMicroservice\Onion.Sample.TSP\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\.net\ProductMicroservice\Onion.Sample.TSP\Domain\obj\Debug\net5.0\Domain.pdb
