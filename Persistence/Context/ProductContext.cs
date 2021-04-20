@@ -8,6 +8,8 @@ namespace Persistence.Context
 {
     public partial  class ProductContext : DbContext, IApplicationContext
     {
+
+        
         public ProductContext(DbContextOptions<ProductContext> options) : base(options)
         {
         }

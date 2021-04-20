@@ -1680,11 +1680,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.net\\ProductMicroservice\\Onion.Sample.TSP\\Application\\Application.csproj",
+      "projectUniqueName": "D:\\.net\\ProductMicroservice\\ProductMicroservice\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "D:\\.net\\ProductMicroservice\\Onion.Sample.TSP\\Application\\Application.csproj",
+      "projectPath": "D:\\.net\\ProductMicroservice\\ProductMicroservice\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\stefa\\.nuget\\packages\\",
-      "outputPath": "D:\\.net\\ProductMicroservice\\Onion.Sample.TSP\\Application\\obj\\",
+      "outputPath": "D:\\.net\\ProductMicroservice\\ProductMicroservice\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stefa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1701,8 +1701,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\.net\\ProductMicroservice\\Onion.Sample.TSP\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\.net\\ProductMicroservice\\Onion.Sample.TSP\\Domain\\Domain.csproj"
+            "D:\\.net\\ProductMicroservice\\ProductMicroservice\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\.net\\ProductMicroservice\\ProductMicroservice\\Domain\\Domain.csproj"
             }
           }
         }

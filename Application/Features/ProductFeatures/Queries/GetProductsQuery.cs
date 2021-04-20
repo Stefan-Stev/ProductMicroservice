@@ -1,5 +1,4 @@
-﻿using Domain;
-using Domain.DTOs;
+﻿using Domain.DTOs;
 using MediatR;
 using System.Collections.Generic;
 

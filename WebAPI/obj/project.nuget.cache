@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H/nD7p1lt/mdYxqYiK5W+Oh3kPY7+COV6TRILCXq/q34kZYiLWxNV7IZUxXfxGWFnAQeakAsb+ZeGnKTxHf1nQ==",
+  "dgSpecHash": "NApH1CtK2k35SNnUi641pw8Kar3eufWMv/+bujLDNrbf86CuIQZnoNCJhKVpwMNorTN9h53BqCBUp1VJD4d5Nw==",
   "success": true,
-  "projectFilePath": "D:\\.net\\ProductMicroservice\\Onion.Sample.TSP\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "D:\\.net\\ProductMicroservice\\ProductMicroservice\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stefa\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\stefa\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

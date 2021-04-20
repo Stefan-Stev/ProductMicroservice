@@ -3163,11 +3163,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.net\\ProductMicroservice\\Onion.Sample.TSP\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "D:\\.net\\ProductMicroservice\\ProductMicroservice\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "D:\\.net\\ProductMicroservice\\Onion.Sample.TSP\\WebAPI\\WebAPI.csproj",
+      "projectPath": "D:\\.net\\ProductMicroservice\\ProductMicroservice\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\stefa\\.nuget\\packages\\",
-      "outputPath": "D:\\.net\\ProductMicroservice\\Onion.Sample.TSP\\WebAPI\\obj\\",
+      "outputPath": "D:\\.net\\ProductMicroservice\\ProductMicroservice\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stefa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3184,11 +3184,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\.net\\ProductMicroservice\\Onion.Sample.TSP\\Application\\Application.csproj": {
-              "projectPath": "D:\\.net\\ProductMicroservice\\Onion.Sample.TSP\\Application\\Application.csproj"
+            "D:\\.net\\ProductMicroservice\\ProductMicroservice\\Application\\Application.csproj": {
+              "projectPath": "D:\\.net\\ProductMicroservice\\ProductMicroservice\\Application\\Application.csproj"
             },
-            "D:\\.net\\ProductMicroservice\\Onion.Sample.TSP\\Persistence\\Persistence.csproj": {
-              "projectPath": "D:\\.net\\ProductMicroservice\\Onion.Sample.TSP\\Persistence\\Persistence.csproj"
+            "D:\\.net\\ProductMicroservice\\ProductMicroservice\\Persistence\\Persistence.csproj": {
+              "projectPath": "D:\\.net\\ProductMicroservice\\ProductMicroservice\\Persistence\\Persistence.csproj"
             }
           }
         }

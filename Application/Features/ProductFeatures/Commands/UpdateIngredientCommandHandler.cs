@@ -1,7 +1,6 @@
 ﻿using Application.Interfaces;
 using MediatR;
 using System;
-using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -9,15 +8,16 @@ namespace Application.Features.ProductFeatures.Commands
 {
     public class UpdateIngredientCommandHandler:IRequestHandler<UpdateIngredientCommand,int>
     {
-        private readonly IApplicationContext context;
+        private readonly IIngredientRepository repository;
 
-        public UpdateIngredientCommandHandler(IApplicationContext  context)
+        public UpdateIngredientCommandHandler(IIngredientRepository repository)
         {
-            this.context = context;
+            
+            this.repository = repository;
         }
         public async Task<int> Handle(UpdateIngredientCommand request, CancellationToken cancellationToken)
         {
-            var ingredient = context.Ingredients.Where(p => p.Id == request.Id).FirstOrDefault();
+            var ingredient = repository.GetById(request.Id).Result;
 
             if (ingredient == null)
             {
@@ -26,7 +26,7 @@ namespace Application.Features.ProductFeatures.Commands
 
             ingredient.Id = request.Id;
             ingredient.Name = request.Name;
-            await context.SaveChangesAsync();
+            await repository.UpdateAsync(ingredient);
             return ingredient.Id;
         }
     }

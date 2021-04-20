@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GntZXmdaxAps04hjXsBSS3EAazFIxfeehVU+sB23SPBNDE1+eS9xzVpLBJHAyUzK6n6w6wNaE9N3wZxJ7zDwpg==",
+  "dgSpecHash": "VQhOkRW+oko6JBWHngWtr4MB6vZVp9OsL5UKf1pDNCkmdgJQbI0tZUVoW8Iv+pj6+L669uhZiVHAB5Fj3jVT4A==",
   "success": true,
-  "projectFilePath": "D:\\.net\\ProductMicroservice\\Onion.Sample.TSP\\Application\\Application.csproj",
+  "projectFilePath": "D:\\.net\\ProductMicroservice\\ProductMicroservice\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stefa\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\stefa\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",

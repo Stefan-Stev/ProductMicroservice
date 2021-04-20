@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bK6W6C2EQkl+jhZI6bqsYGGBdmYLGfDeTQQrV08it+rhZiLvZvOz5Pnok9bMn3TK0FMyX5+6nxIw/vg8GjSLPw==",
+  "dgSpecHash": "GtQ0ltbE2bPEh8eA1Qq86QHSSfgF0OX4Aa5ge2eDv5GX+zdRS3DViBQm4ilbEcNNSpiM5GmX7xQ6Ye/mYl70rw==",
   "success": true,
-  "projectFilePath": "D:\\.net\\ProductMicroservice\\Onion.Sample.TSP\\Persistence\\Persistence.csproj",
+  "projectFilePath": "D:\\.net\\ProductMicroservice\\ProductMicroservice\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stefa\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\stefa\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zQB4PZSf03kFHU3tA3u3ApEr8JnRd9k3lOI62rD+W4e/ouJAwomHL2DS/korkAtEZav83ctLNqT6rcoceZEZ4A==",
+  "dgSpecHash": "+/vZJHDwVJzvSVphBVvjajk7YiX1exLWcz2/eidmSpYrOAj9ON0+OeA2x7BToAzlsxMQ3iUkkdAJB4Nt/qHymw==",
   "success": true,
-  "projectFilePath": "D:\\.net\\ProductMicroservice\\Onion.Sample.TSP\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\.net\\ProductMicroservice\\ProductMicroservice\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

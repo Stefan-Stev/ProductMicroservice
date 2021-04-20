@@ -28,7 +28,7 @@ namespace Application.Features.ProductFeatures.Commands
 
             };
 
-            repository.AddAsync(product);
+            await repository.AddAsync(product);
             return product.Id;
         }
     }

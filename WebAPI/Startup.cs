@@ -34,6 +34,7 @@ namespace WebAPI
             services.AddPersistence(Configuration);
             services.AddApplication();
             services.AddTransient<IProductRepository, ProductRepository>();
+            services.AddTransient<IIngredientRepository, IngredientRepository>();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "WebAPI", Version = "v1" });

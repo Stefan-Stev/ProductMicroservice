@@ -1,5 +1,4 @@
 ﻿using Application.Interfaces;
-using Domain;
 using Domain.DTOs;
 using Domain.Entities;
 using MediatR;
@@ -14,15 +13,17 @@ namespace Application.Features.ProductFeatures.Queries
     public class GetProductsQueryHandler : IRequestHandler<GetProductsQuery, IEnumerable<GetProductDto>>
     {
         private readonly IApplicationContext context;
+        private readonly IProductRepository repository;
 
-        public GetProductsQueryHandler(IApplicationContext context)
+        public GetProductsQueryHandler(IApplicationContext context,IProductRepository repository)
         {
             this.context = context;
+            this.repository=repository;
         }
 
         public async Task<IEnumerable<GetProductDto>> Handle(GetProductsQuery request, CancellationToken cancellationToken)
         {
-            var products= context.Products.ToList();
+            var products = repository.GetAll();
             List<GetProductDto> listProducts=new List<GetProductDto>();
             foreach(var product in products)
                 {

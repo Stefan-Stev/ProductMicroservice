@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.net\\ProductMicroservice\\Onion.Sample.TSP\\Domain\\Domain.csproj": {}
+    "D:\\.net\\ProductMicroservice\\ProductMicroservice\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\.net\\ProductMicroservice\\Onion.Sample.TSP\\Domain\\Domain.csproj": {
+    "D:\\.net\\ProductMicroservice\\ProductMicroservice\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.net\\ProductMicroservice\\Onion.Sample.TSP\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\.net\\ProductMicroservice\\ProductMicroservice\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\.net\\ProductMicroservice\\Onion.Sample.TSP\\Domain\\Domain.csproj",
+        "projectPath": "D:\\.net\\ProductMicroservice\\ProductMicroservice\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\stefa\\.nuget\\packages\\",
-        "outputPath": "D:\\.net\\ProductMicroservice\\Onion.Sample.TSP\\Domain\\obj\\",
+        "outputPath": "D:\\.net\\ProductMicroservice\\ProductMicroservice\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\stefa\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,6 @@
 ﻿using Application.Interfaces;
 using Domain.DTOs;
 using MediatR;
-using Microsoft.EntityFrameworkCore;
-using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -10,16 +8,21 @@ namespace Application.Features.ProductFeatures.Queries
 {
     public class GetIngredientByIdQueryHandler:IRequestHandler<GetIngredientByIdQuery,GetIngredientDto>
     {
-        private readonly IApplicationContext context;
-        public GetIngredientByIdQueryHandler(IApplicationContext context)
+        private readonly IIngredientRepository repository;
+        public GetIngredientByIdQueryHandler(IIngredientRepository repository)
         {
-            this.context = context;
+            this.repository = repository;
         }
         public async Task<GetIngredientDto>  Handle(GetIngredientByIdQuery request,CancellationToken cancellation)
         {
-            var ingredient = await context.Ingredients.Where(i => i.Id == request.Id)
-                                  .Select(i => new GetIngredientDto() { Id = i.Id, Name = i.Name }).FirstOrDefaultAsync();
-            return ingredient;
+            var ingredient = await repository.GetById(request.Id);
+              
+            var getIngredientDto = new GetIngredientDto()
+            {
+                Id = ingredient.Id,
+                Name = ingredient.Name
+            };
+            return getIngredientDto;
         }
     }
 }

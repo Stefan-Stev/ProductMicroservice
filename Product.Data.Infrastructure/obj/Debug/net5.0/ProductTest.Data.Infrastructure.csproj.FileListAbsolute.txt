@@ -1,0 +1,5 @@
+D:\.net\ProductMicroservice\ProductMicroservice\Product.Data.Infrastructure\obj\Debug\net5.0\ProductTest.Data.Infrastructure.csprojAssemblyReference.cache
+D:\.net\ProductMicroservice\ProductMicroservice\Product.Data.Infrastructure\obj\Debug\net5.0\ProductTest.Data.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\ProductMicroservice\ProductMicroservice\Product.Data.Infrastructure\obj\Debug\net5.0\ProductTest.Data.Infrastructure.AssemblyInfoInputs.cache
+D:\.net\ProductMicroservice\ProductMicroservice\Product.Data.Infrastructure\obj\Debug\net5.0\ProductTest.Data.Infrastructure.AssemblyInfo.cs
+D:\.net\ProductMicroservice\ProductMicroservice\Product.Data.Infrastructure\obj\Debug\net5.0\ProductTest.Data.Infrastructure.csproj.CoreCompileInputs.cache
